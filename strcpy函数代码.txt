@@ -1,7 +1,6 @@
 //自己实现字符串拷贝函数
 char* StrCpy(char* src)
 {
-char* src="hello-world";
 //1、计算src的长度len
 int n=0;
 while(*src!=0)n++;
